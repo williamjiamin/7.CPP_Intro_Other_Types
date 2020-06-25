@@ -19,6 +19,11 @@ int main() {
 //    cout << char_value << endl;
 //    cout << int(char_value) << endl;
 //    cout << "The size of char is " << sizeof(char_value) << endl;
+    wchar_t reverse_search_value = 'W';
+//    type casting 反向查询
+    cout << (char)reverse_search_value <<endl;
+    cout << reverse_search_value << endl;
+
     return 0;
 
 
